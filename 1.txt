@@ -4,3 +4,4 @@ Name: Jobin John
 Age: 27 years
 Marital Status: Married
 Phone: xxxx-xxx-x19
+Email: jxxx@gmail.com
