@@ -1,6 +1,7 @@
 This is my First sample text file.
 
 Name: Jobin John
+DOB: 14-02-1992
 Age: 27 years
 Marital Status: Married
 Phone: xxxx-xxx-x19
